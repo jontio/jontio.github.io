@@ -1,3 +1,3 @@
 # Nothing to see yet
 
-Currently a work in progress. Hopefully by next week I will get everything online.
+Currently just some assets for my usual selfhosted website http://jontio.zapto.org
